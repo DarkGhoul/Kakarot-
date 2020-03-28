@@ -1,3 +1,0 @@
-Le projet est fait a l'aide du Colaboratory, veuillez le trouver a travers ce lien:
-
-https://colab.research.google.com/drive/1o7YL0MmHjiVakvknlz9nZ0UxeQDjrTcK?fbclid=IwAR2BPVB8gjsjChwFzNI2mvjBA1jf3IGrXgQNuiVzXit1OFaEROuVB43sJCs#scrollTo=bWCDLEkJD7l2&forceEdit=true&sandboxMode=true&uniqifier=1
